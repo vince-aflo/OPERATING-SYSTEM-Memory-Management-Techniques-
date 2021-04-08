@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # OPERATING SYSTEMS *(mangement techniques)*
 
 ### ALGORITHMS IN THIS REPOSITORY INCLUDE
