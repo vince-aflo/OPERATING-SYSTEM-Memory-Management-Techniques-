@@ -5,11 +5,11 @@ In SCAN disk scheduling algorithm, head starts from one end of the disk and move
 ### HOW IT WORKS
 
 This program has the following variables with values assigned to them
-#### * total_seek
-#### * distance
-#### * currentT
-#### * size
-#### * disk_size
+ * total_seek
+ * distance
+ * currentT
+ * size
+ * disk_size
 
 
 
