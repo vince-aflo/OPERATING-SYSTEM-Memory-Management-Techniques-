@@ -6,21 +6,21 @@ Circular SCAN (C-SCAN) scheduling algorithm is a modified version of SCAN disk s
 ### HOW IT WORKS
 
 This program has the following variables with values assigned to them
-####  seek_num
-####  distance
-####  current_track
-####  size
-####  disk_size
+-  seek_num
+-  distance
+-  current_track
+-  size
+-  disk_size
 
 
 
 
 ###  CALCULATIONS
-#### *  direction- left and right 
-#### *   sorting
-#### *  absolute distance
-#### * 	total count
-#### *	distance
+ *  direction- left and right 
+ *   sorting
+ *  absolute distance
+ * 	total count
+ *	distance
 
 
 
