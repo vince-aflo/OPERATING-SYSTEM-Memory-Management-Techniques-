@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # OPERATING SYSTEMS *(mangement techniques)*
 
 ### ALGORITHMS IN THIS REPOSITORY INCLUDE
@@ -32,11 +32,4 @@ To run these programs, you'll need to download and install the Java SE Developme
 ### RUN CODE
 If you want to run the algorithms in an IDE or Text Editor. You should copy the entire contents of any of the algorithm into a project in the IDE or Text Editor, and then run the Main.java in the folder.
 
-=======
-*MEMORY MANAGEMENT TECHNIQUES*
 
-This repository includes memory managements techniques as listed, written in Java. 
-Each technique has a folder.
-
-Kindly click of the folders above to access them.
->>>>>>> main
