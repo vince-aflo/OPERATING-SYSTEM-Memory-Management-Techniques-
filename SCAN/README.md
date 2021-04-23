@@ -15,10 +15,10 @@ This program has the following variables with values assigned to them
 
 
 ###  CALCULATIONS
-####  direction- left and right 
-####   sorting
-####   absolute distance
-####	total count
+-  direction- left and right 
+-   sorting
+-   absolute distance
+-	total count
 
 
 
