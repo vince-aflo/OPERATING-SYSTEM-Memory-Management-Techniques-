@@ -1,7 +1,7 @@
 // C-SCAN Disk Scheduling algorithm
 import java.util.*;
 
-public class c_scan {
+public class CSCAN {
 
     static int size = 8;
     static int disk_size = 200;
