@@ -23,6 +23,8 @@
 #### C)DISK SCHEDULING ALGORITHMS
 
 - First Come Fisrt Serve
+- SCAN
+- C_SCAN
 
 
 #### METHOD OF INSTALLATION
